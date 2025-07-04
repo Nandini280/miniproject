@@ -1,1 +1,2 @@
-ImageSegmentation_minipro
+ImageSegmentation_miniproject 
+
